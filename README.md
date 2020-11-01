@@ -1,2 +1,1 @@
-# linux
-hello xiaohei
+print('hello woeld')
